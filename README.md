@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Manalaysay</h1>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=567523990538356835" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog">
 
 - 🌱 I’m currently learning **DevOps on AWS**
 
